@@ -30,7 +30,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,apple,css,docker,fastapi,git,github,html,java,js,kubernetes,latex,linux,matlab,nginx,mysql,notion,nodejs,npm,obsidian,ps,phpstorm,py,pytorch,redis,wordpress&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,apple,css,docker,fastapi,git,github,html,java,js,kubernetes,latex,linux,matlab,nginx,mysql,notion,nodejs,npm,obsidian,ps,phpstorm,py,pytorch,redis,wordpress&perline=13)](https://skillicons.dev)
 
 </div>
 
