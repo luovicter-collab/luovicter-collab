@@ -48,11 +48,3 @@
 </picture>
 
 </div>
-
----
-
-<div align="center">
-
-<sub>开源仅供学习研究；规则与免责见各项目 README。</sub>
-
-</div>
