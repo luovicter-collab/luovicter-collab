@@ -44,11 +44,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/luovicter-collab/luovicter-collab/main/output/metrics.svg" alt="GitHub metrics" width="100%" />
-
-</div>
 
 
 ---
