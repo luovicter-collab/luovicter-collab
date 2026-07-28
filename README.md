@@ -30,12 +30,7 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,ts,js,react,nodejs,fastapi,html,css,sqlite,docker,git,githubactions,linux&perline=7)](https://skillicons.dev)
-
-[![bilibinggo top language](https://img.shields.io/github/languages/top/luovicter-collab/bilibinggo?style=for-the-badge&label=主力仓库&logo=python&logoColor=white&color=CC785C)](https://github.com/luovicter-collab/bilibinggo)
-[![Python](https://img.shields.io/badge/Python-后端%20·%20自动化-3D3D3A?style=flat-square&labelColor=FAF9F5)](https://github.com/luovicter-collab)
-[![TypeScript](https://img.shields.io/badge/TypeScript-前端%20·%20控制台-3D3D3A?style=flat-square&labelColor=FAF9F5)](https://github.com/luovicter-collab)
-[![LLM](https://img.shields.io/badge/LLM-Agent%20·%20MCP%20·%20Prompt-CC785C?style=flat-square)](https://github.com/luovicter-collab)
+[![Skills](https://skillicons.dev/icons?i=python,js,nodejs,html&perline=4)](https://skillicons.dev)
 
 </div>
 
