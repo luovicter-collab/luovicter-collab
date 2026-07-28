@@ -64,31 +64,6 @@
 
 ---
 
-## 开源项目
-
-| 仓库 | 简介 |
-|------|------|
-| [**bilibinggo**](https://github.com/luovicter-collab/bilibinggo) | 本机自动化 + LLM / MCP |
-| [**market_report**](https://github.com/luovicter-collab/market_report) | 市场报告自动化 |
-| [**NEWS**](https://github.com/luovicter-collab/NEWS) | 资讯聚合实验 |
-| [**openclaw-docs**](https://github.com/luovicter-collab/openclaw-docs) | OpenClaw 文档 |
-
-[全部仓库 →](https://github.com/luovicter-collab?tab=repositories)
-
----
-
-## 联系
-
-<div align="center">
-
-<a href="mailto:victerrrrr@163.com"><img src="https://img.shields.io/badge/邮箱-victerrrrr%40163.com-CC785C?style=for-the-badge" alt="Email"></a>
-<a href="https://github.com/luovicter-collab"><img src="https://img.shields.io/badge/GitHub-luovicter-collab-141413?style=for-the-badge" alt="GitHub"></a>
-
-</div>
-
-[victerrrrr@163.com](mailto:victerrrrr@163.com) · 各项目 **Issues** 反馈
-
----
 
 ## 贡献轨迹
 
