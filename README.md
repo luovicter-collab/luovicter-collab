@@ -34,17 +34,6 @@
 
 </div>
 
----
-
-## 动态面板
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com/?user=luovicter-collab&hide_border=true&background=FAF9F5&stroke=E6DFD8&ring=CC785C&fire=CC785C&currStreakLabel=CC785C&sideLabels=3D3D3A&currStreakNum=141413&sideNums=3D3D3A&dates=6C6A64" alt="GitHub streak" />
-
-</div>
-
-
 
 ---
 
