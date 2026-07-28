@@ -50,11 +50,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luovicter-collab&bg_color=FAF9F5&color=3D3D3A&line=CC785C&point=141413&area=true&hide_border=true&custom_title=Contribution+Activity" alt="Activity graph" width="100%" />
-
-</div>
 
 ---
 
