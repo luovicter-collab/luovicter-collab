@@ -35,7 +35,6 @@ jobs:
           plugin_habits_charts_type: classic
           plugin_followup: yes
           plugin_repositories: yes
-          plugin_repositories_limit: 6
 
   verify:
     needs: metrics
