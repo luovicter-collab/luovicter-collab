@@ -1,0 +1,38 @@
+name: update_readme_assets
+
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stats SVGs (avoid hotlink / camo failures)
+        run: |
+          set -e
+          STATS_URL="https://github-readme-stats.vercel.app/api?username=luovicter-collab&show_icons=true&hide_border=true&bg_color=FAF9F5&title_color=141413&text_color=3D3D3A&icon_color=CC785C"
+          LANGS_URL="https://github-readme-stats.vercel.app/api/top-langs/?username=luovicter-collab&layout=compact&hide_border=true&bg_color=FAF9F5&title_color=141413&text_color=3D3D3A&icon_color=CC785C"
+          TROPHY_URL="https://github-profile-trophy.vercel.app/?username=luovicter-collab&theme=gracht&column=4&margin-w=8&margin-h=8&no-bg=true&no-frame=false"
+
+          curl -fsSL "$STATS_URL" -o assets/github-stats.svg
+          curl -fsSL "$LANGS_URL" -o assets/top-langs.svg
+          curl -fsSL "$TROPHY_URL" -o assets/trophies.svg
+
+          test -s assets/github-stats.svg
+          test -s assets/top-langs.svg
+          test -s assets/trophies.svg
+
+      - uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "chore: refresh profile readme assets"
+          add: "assets"
