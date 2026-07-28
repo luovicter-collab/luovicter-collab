@@ -1,4 +1,4 @@
-<!-- Profile README · Victor · 全栈 · LLM · 自托管动态图 -->
+<!-- Profile · Victor · 大模型应用全栈 · 广州 · GDUFE -->
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/luovicter-collab?style=flat-square&label=Followers&color=cc785c)](https://github.com/luovicter-collab?tab=followers)
 [![Total stars](https://img.shields.io/github/stars/luovicter-collab?style=flat-square&label=Stars&color=cc785c)](https://github.com/luovicter-collab?tab=stars)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=CC785C&center=true&vCenter=true&width=500&lines=Full-stack+developer;LLM+%26+agent+experiments;Open+source+on+GitHub" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2600&pause=800&color=CC785C&center=true&vCenter=true&width=520&lines=LLM+application+engineer;Full-stack+on+GitHub;Agents+%26+local+tools" alt="Typing intro" />
 
 </div>
 
@@ -16,30 +16,14 @@
 
 ## 关于我
 
-我是 **Victor**（[@luovicter-collab](https://github.com/luovicter-collab)），**全栈开发者**，2025 年起在 GitHub 持续开源。
-
 | | |
 |---|---|
-| **定位** | 全栈 · 前后端 + 自动化 · **喜欢大模型**（Agent / MCP / 工具链） |
-| **城市** | *（发我城市名后可写上主页）* |
-| **学校** | *（发我后可写）* |
-| **行业 / 岗位** | *（发我后可写）* |
+| **岗位** | **大模型应用全栈开发工程师** |
+| **城市** | 广州 |
+| **学校** | GDUFE（广东财经大学） |
+| **GitHub** | [@luovicter-collab](https://github.com/luovicter-collab) · 2025 年起持续开源 |
 
-- 把重复劳动做成 **本机可运行、界面可读** 的小工具，而不是黑盒脚本  
-- 最近在折腾：**LLM 接进真实产品**（解析、Agent、本地控制台）  
-- 学习研究向开源；不接黑产、多账号矩阵、违规商业化  
-
-> **一句话**：用全栈把想法做成能天天用的工具，用大模型让它更聪明一点。
-
-<details>
-<summary><b>🎲 点开展开 · 随机状态</b></summary>
-
-- 当前 Buff：**给开源项目写 README**（你可能看得出来）  
-- 咖啡因依赖：`☕☕☕`  
-- IDE 里常驻：Python · TypeScript · **提示词与 API**  
-- 若 GitHub 绿格子断了：多半在写 UI，不是在 `git commit`
-
-</details>
+全栈交付 **LLM 应用**（RAG / Agent / MCP / 本地控制台），Python 与 TypeScript 为主；做能上线、能自己天天用的工具。
 
 ---
 
@@ -47,36 +31,30 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,fastapi,docker,git,githubactions,linux,sqlite,pytorch&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,ts,js,react,nodejs,fastapi,html,css,sqlite,docker,git,githubactions,linux&perline=7)](https://skillicons.dev)
+
+[![bilibinggo top language](https://img.shields.io/github/languages/top/luovicter-collab/bilibinggo?style=for-the-badge&label=主力仓库&logo=python&logoColor=white&color=CC785C)](https://github.com/luovicter-collab/bilibinggo)
+[![Python](https://img.shields.io/badge/Python-后端%20·%20自动化-3D3D3A?style=flat-square&labelColor=FAF9F5)](https://github.com/luovicter-collab)
+[![TypeScript](https://img.shields.io/badge/TypeScript-前端%20·%20控制台-3D3D3A?style=flat-square&labelColor=FAF9F5)](https://github.com/luovicter-collab)
+[![LLM](https://img.shields.io/badge/LLM-Agent%20·%20MCP%20·%20Prompt-CC785C?style=flat-square)](https://github.com/luovicter-collab)
 
 </div>
 
-**兴趣条**（手写进度感，不依赖外链 API）
-
-```text
-Python      ██████████░░  主力
-TypeScript  ████████░░░░  前端 / 工具
-LLM / Agent █████████░░░  持续加点
-产品 & UI   ███████░░░░░  和代码一起打磨
-```
+下方 **Metrics** 由 GitHub Actions 按真实提交与语言占比每日生成（非手写）。
 
 ---
 
 ## 动态面板
 
-> 统计图与奖杯由 **Actions 写入本仓库 `assets/`**，避免 Vercel 外链在 GitHub 上裂图。若仍显示 “loading”，到 [Actions → update_readme_assets](https://github.com/luovicter-collab/luovicter-collab/actions/workflows/readme-assets.yml) 点 **Run workflow**。
-
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/luovicter-collab/luovicter-collab/main/assets/github-stats.svg" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com/?user=luovicter-collab&hide_border=true&background=FAF9F5&stroke=E6DFD8&ring=CC785C&fire=CC785C&currStreakLabel=CC785C&sideLabels=3D3D3A&currStreakNum=141413&sideNums=3D3D3A&dates=6C6A64" alt="GitHub streak" />
-<img height="165" src="https://raw.githubusercontent.com/luovicter-collab/luovicter-collab/main/assets/top-langs.svg" alt="Top languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luovicter-collab/luovicter-collab/main/assets/trophies.svg" alt="GitHub trophies" width="100%" />
+<img src="https://raw.githubusercontent.com/luovicter-collab/luovicter-collab/main/output/metrics.svg" alt="GitHub metrics" width="100%" />
 
 </div>
 
@@ -92,11 +70,10 @@ LLM / Agent █████████░░░  持续加点
 
 | 仓库 | 简介 |
 |------|------|
-| [**bilibinggo**](https://github.com/luovicter-collab/bilibinggo) | Binggo · 本机自动化助手（含 LLM / MCP） |
+| [**bilibinggo**](https://github.com/luovicter-collab/bilibinggo) | 本机自动化 + LLM / MCP |
 | [**market_report**](https://github.com/luovicter-collab/market_report) | 市场报告自动化 |
-| [**auditpilot**](https://github.com/luovicter-collab/auditpilot) | ISO 27001 就绪检查辅助 |
 | [**NEWS**](https://github.com/luovicter-collab/NEWS) | 资讯聚合实验 |
-| [**openclaw-docs**](https://github.com/luovicter-collab/openclaw-docs) | OpenClaw 文档与配置 |
+| [**openclaw-docs**](https://github.com/luovicter-collab/openclaw-docs) | OpenClaw 文档 |
 
 [全部仓库 →](https://github.com/luovicter-collab?tab=repositories)
 
@@ -111,11 +88,11 @@ LLM / Agent █████████░░░  持续加点
 
 </div>
 
-合作、技术交流：[victerrrrr@163.com](mailto:victerrrrr@163.com) · 各项目 **Issues** 反馈
+[victerrrrr@163.com](mailto:victerrrrr@163.com) · 各项目 **Issues** 反馈
 
 ---
 
-## 贡献轨迹 · Snake
+## 贡献轨迹
 
 <div align="center">
 
