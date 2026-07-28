@@ -20,10 +20,10 @@
 |---|---|
 | **岗位** | **大模型应用全栈开发工程师** |
 | **城市** | 广州 |
-| **学校** | GDUFE（广东财经大学） |
+| **学校** | GDUFE |
 | **GitHub** | [@luovicter-collab](https://github.com/luovicter-collab) · 2025 年起持续开源 |
 
-全栈交付 **LLM 应用**（RAG / Agent / MCP / 本地控制台），Python 与 TypeScript 为主；做能上线、能自己天天用的工具。
+全栈交付 **LLM 应用**（RAG / Agent / MCP / NLP），Python 为主；做能上线、能自己天天用的工具。
 
 ---
 
